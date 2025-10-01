@@ -1,0 +1,4 @@
+pandas #for data usage
+numpy #for calculations and log returns
+matplotlib #for plots
+yfinance #for downloading data from Yahoo Finance
