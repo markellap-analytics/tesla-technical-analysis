@@ -41,10 +41,7 @@ How to Run
 
 Project Structure
 Tesla_TA/
-├── main_TA.py          `# Main Python script`
-├── TSLA.csv            `# Raw and processed stock data`
-├── plots/              `# Folder containing all generated plots`
-└── README.md           `# Project overview`
-
-
-it push
+-main_TA.py     -`# Main Python script`
+-TSLA.csv       -`# Raw and processed stock data`
+-plots/         -`# Folder containing all generated plots`
+-README.md      -`# Project overview`
