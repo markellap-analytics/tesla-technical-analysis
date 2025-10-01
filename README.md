@@ -40,8 +40,9 @@ How to Run
 4. The plots will be saved automatically in the plots folder.
 
 Project Structure
-Tesla_TA/
--main_TA.py     -`# Main Python script`
--TSLA.csv       -`# Raw and processed stock data`
--plots/         -`# Folder containing all generated plots`
--README.md      -`# Project overview`
+
+Tesla_TA
+- main_TA.py     -`# Main Python script`
+- TSLA.csv       -`# Raw and processed stock data`
+- plots/         -`# Folder containing all generated plots`
+- README.md      -`# Project overview`
